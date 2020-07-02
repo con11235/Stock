@@ -27,7 +27,7 @@
 #### [단어 수 비교 폴더](https://github.com/con11235/Stock/tree/master/ComparingConfiguration/%EB%8B%A8%EC%96%B4%20%EC%88%98%20%EB%B9%84%EA%B5%90)
 - DNN(8)-단어수6000.ipynb~8000.ipynb : 18년 1월 1일부터 19년 9월 30일의 데이터를 가지고 머니투데이를 학습, 매일경제를 테스트 데이터로 (데이터 타입 : 8) 사용하였습니다. 각 단어 수의 epoch별 정확도와 학습 그래프를 확인할 수 있습니다.
 - DNN-단어수50000.ipynb : 18년 1월 1일부터 19년 9월 30일의 데이터 중 8의 데이터보다 정제된 데이터(데이터타입 : 15)를 사용하였습니다.  
-#### [품사 제거 비교 폴더](https://github.com/con11235/Stock/tree/master/ComparingConfiguration/%ED%92%88%EC%82%AC%20%EC%A0%9C%EA%B1%B0%20%EB%B9%84%EA%B5%90)
+#### [품사 제거 비교 폴더](https://github.com/con11235/Stock/tree/master/ComparingConfiguration/%ED%92%88%EC%82%AC%20%EC%A0%9C%EA%B1%B0%20%EB%B9%84%EA%B5%90)   
 : 각각의 파일명에 제시된 품사들을 제외한 파일들입니다. 외래어, 부사, 한글자 짜리 단어 제거의 경우 ipynb 파일이 삭제되어 결과 데이터를 첨부합니다.
 
 > 5. 최종 결과 및 시각화 > [final result 폴더](https://github.com/con11235/Stock/tree/master/final%20result)
